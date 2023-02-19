@@ -4,7 +4,7 @@
 #### My styding project
 **Brain Games**: Includes 5 logic games where you need to perform mathematical expressions, find a missing number or a common divisor. [Link to GitHub](https://github.com/Sergey-frontend/frontend-project-44)
 
-**Difference calculator**: This is a utility that determines the difference between two data structures. Support for different input formats: yaml, json, ini, and Report generation in the form of plain text, stylish and json.[Link to GitHub](https://github.com/Sergey-frontend/frontend-project-46)
+**Difference calculator**: This is a utility that determines the difference between two data structures. Support for different input formats: yaml, json, ini, and Report generation in the form of plain text, stylish and json. [Link to GitHub](https://github.com/Sergey-frontend/frontend-project-46)
 
 #### My tech stack
 <img src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=yellow"> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red"> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=48A0DC"> <img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=61DAFB">

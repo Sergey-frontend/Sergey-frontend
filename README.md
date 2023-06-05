@@ -1,15 +1,26 @@
 ![logo](/assets/logo.gif)
 
-### Hi everyone! I am studying and want to become a software engineer
-#### My styding project
-**Brain Games**: Includes 5 logic games where you need to perform mathematical expressions, find a missing number or a common divisor. [Link to GitHub](https://github.com/Sergey-frontend/frontend-project-44)
+Hello! My name is Sergey, and I'm a student software developer. My goal is to create innovative solutions that bring value and enhance the user experience.
 
-**Difference calculator**: This is a utility that determines the difference between two data structures. Support for different input formats: yaml, json, ini, and Report generation in the form of plain text, stylish and json. [Link to GitHub](https://github.com/Sergey-frontend/frontend-project-46)
+I have several educational projects that I would like to present:<br/>
+**Brain Games:** This project includes five logic games related to numbers and calculations. It is designed to develop thinking, logic, and mathematical skills.<br/>
+**Difference Calculator:** My Difference Calculator application is a utility for finding differences between JSON or YAML files. It also supports nested data structures. It is a reliable tool that aids in the analysis and comparison of information.<br/>
+**RSS Aggregator (Website):** I have developed a web application that serves as an RSS news feed. It provides fast and convenient access to up-to-date news sources, gathering them in one place.<br/>
+**Chat:** My chat application is built using React and Bootstrap. It is a simple version of a Slack chat, facilitating real-time messaging.<br/>
 
-#### My tech stack
-<img src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=yellow"> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red"> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=48A0DC"> <img src="https://img.shields.io/badge/WEBPACK-black?style=for-the-badge&logo=webpack&logoColor=1C78C0"> <img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=61DAFB">
+Please feel free to contact me for any inquiries or potential collaborations. You can reach me via:<br/>
+**Email:** tolstikovsn@gmail.com<br/>
+**Telegram:** @sergey-frontend<br/>
+I look forward to connecting with you and discussing any opportunities to work together.<br/>
+Thank you!
 
-<img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNU Bash&logoColor=white"> <img src="https://img.shields.io/badge/Action-black?style=for-the-badge&logo=GitHub Actions&logoColor=3675F0"> <img src="https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm&logoColor=CC0000"> <img src="https://img.shields.io/badge/JEST-black?style=for-the-badge&logo=jest&logoColor=15C213"> <img src="https://img.shields.io/badge/LODASH-black?style=for-the-badge&logo=Lodash&logoColor=3492FF">
+#### Tech stack
+<img src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=red">
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=48A0DC"> 
+<img src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=yellow">
+<img src="https://img.shields.io/badge/WEBPACK-black?style=for-the-badge&logo=webpack&logoColor=1C78C0">
+<img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=61DAFB">
+
 
 
 

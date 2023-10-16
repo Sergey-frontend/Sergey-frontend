@@ -17,7 +17,7 @@ Thank you!
 #### Tech stack:
 ![image](https://www.codewars.com/users/Sergey-frontend/badges/small)
 
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red"> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=48A0DC"> <img src="https://img.shields.io/badge/BOOTSTRAP-black?style=for-the-badge&logo=bootstrap&logoColor=563d7c"> <img src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=yellow"> <img src="https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=typescript&logoColor=007acc"> <img src="https://img.shields.io/badge/WEBPACK-black?style=for-the-badge&logo=webpack&logoColor=1C78C0"> <img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TYPESCRIPT-black?style=for-the-badge&logo=typescript&logoColor=007acc"> <img src="https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=REACT&logoColor=61DAFB">
 
 
 
